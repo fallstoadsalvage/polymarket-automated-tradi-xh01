@@ -1,4 +1,4 @@
-# 
+# new Trading Bot for Polymarket - real-time-market-analysis and take-profit-orders is the best Polymarket trading-bot, featuring real-time-market-analysis and take-profit-orders.
 
 
 
